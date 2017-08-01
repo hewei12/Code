@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayForWeiXin", "PayForWeiXin\PayForWeiXin.csproj", "{0A34CA5F-0152-4C3D-AD3F-211F15D641FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{8EFC235B-0BD5-4D6C-ABC2-74A07A1DD0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{46A69021-DCA8-4AAA-9B3D-5373BFCADF5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A34CA5F-0152-4C3D-AD3F-211F15D641FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A34CA5F-0152-4C3D-AD3F-211F15D641FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A34CA5F-0152-4C3D-AD3F-211F15D641FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A34CA5F-0152-4C3D-AD3F-211F15D641FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFC235B-0BD5-4D6C-ABC2-74A07A1DD0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFC235B-0BD5-4D6C-ABC2-74A07A1DD0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFC235B-0BD5-4D6C-ABC2-74A07A1DD0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFC235B-0BD5-4D6C-ABC2-74A07A1DD0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A69021-DCA8-4AAA-9B3D-5373BFCADF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A69021-DCA8-4AAA-9B3D-5373BFCADF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A69021-DCA8-4AAA-9B3D-5373BFCADF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A69021-DCA8-4AAA-9B3D-5373BFCADF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
