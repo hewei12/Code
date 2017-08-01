@@ -1,0 +1,3 @@
+Predicate接收一个T参数，返回一个bool值
+Func接收1-4个参数，返回一个值
+Action接收1-4个参数，不返回值
