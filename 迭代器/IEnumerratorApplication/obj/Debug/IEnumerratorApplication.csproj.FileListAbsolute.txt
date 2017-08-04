@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\IEnumerratorApplication\IEnumerratorApplication\bin\Debug\IEnumerratorApplication.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\IEnumerratorApplication\IEnumerratorApplication\bin\Debug\IEnumerratorApplication.exe
+c:\users\administrator\documents\visual studio 2015\Projects\IEnumerratorApplication\IEnumerratorApplication\bin\Debug\IEnumerratorApplication.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\IEnumerratorApplication\IEnumerratorApplication\obj\Debug\IEnumerratorApplication.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\IEnumerratorApplication\IEnumerratorApplication\obj\Debug\IEnumerratorApplication.exe
+c:\users\administrator\documents\visual studio 2015\Projects\IEnumerratorApplication\IEnumerratorApplication\obj\Debug\IEnumerratorApplication.pdb
