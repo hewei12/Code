@@ -1,0 +1,1 @@
+IEnumerable+IEnumerator应用，遍历类实体中的数组集合
