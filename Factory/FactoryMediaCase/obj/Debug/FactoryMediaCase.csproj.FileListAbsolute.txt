@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleFactory\FactoryMediaCase\bin\Debug\FactoryMediaCase.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleFactory\FactoryMediaCase\bin\Debug\FactoryMediaCase.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleFactory\FactoryMediaCase\bin\Debug\FactoryMediaCase.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleFactory\FactoryMediaCase\obj\Debug\FactoryMediaCase.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleFactory\FactoryMediaCase\obj\Debug\FactoryMediaCase.pdb
