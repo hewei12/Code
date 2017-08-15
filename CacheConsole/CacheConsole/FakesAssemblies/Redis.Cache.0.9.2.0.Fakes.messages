@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.ItemCacheInfo`1 生成存根: 类型对 exported or assembly(Redis.Cache.0.9.2.0.Fakes) 不可见。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.ManagementItemsCache 生成存根: 类型对 exported or assembly(Redis.Cache.0.9.2.0.Fakes) 不可见。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.Properties.Settings 生成存根: 类型已密封。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.RedisDal 生成存根: 类型对 exported or assembly(Redis.Cache.0.9.2.0.Fakes) 不可见。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.Utility 生成存根: 类型已密封。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.ItemCacheInfo`1 生成填充码: 类型对 exported or assembly(Redis.Cache.0.9.2.0.Fakes) 不可见。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.ManagementItemsCache 生成填充码: 类型对 exported or assembly(Redis.Cache.0.9.2.0.Fakes) 不可见。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.Properties.Settings 生成填充码: 类型对 exported or assembly(Redis.Cache.0.9.2.0.Fakes) 不可见。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.RedisDal 生成填充码: 类型对 exported or assembly(Redis.Cache.0.9.2.0.Fakes) 不可见。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.Utility+StatusItem 生成填充码: 类型是一个枚举。
+c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\Fakes\Redis.Cache.fakes : warning : 无法为 Redis.Cache.Utility+TypeStorage 生成填充码: 类型是一个枚举。
