@@ -41,3 +41,6 @@ c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheC
 c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\obj\Debug\Fakes\rc\o\f.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\obj\Debug\Fakes\rc\o\Redis.Cache.0.9.2.0.Fakes.dll
 c:\users\administrator\documents\visual studio 2015\Projects\CacheConsole\CacheConsole\obj\Debug\Fakes\rc\o\Redis.Cache.0.9.2.0.Fakes.pdb
+D:\GitCode\Code\CacheConsole\CacheConsole\bin\Debug\CacheConsole.exe.config
+D:\GitCode\Code\CacheConsole\CacheConsole\obj\Debug\CacheConsole.exe
+D:\GitCode\Code\CacheConsole\CacheConsole\obj\Debug\CacheConsole.pdb
