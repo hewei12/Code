@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryCarPhoneCase", "Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryProdectCase", "FactoryProdectCase\FactoryProdectCase.csproj", "{6323221A-1A86-4D2D-972D-4CC8E8C27A14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryCaseReflection", "FactoryCaseReflection\FactoryCaseReflection.csproj", "{8688CD12-E36D-487B-8F64-1243EF52B765}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6323221A-1A86-4D2D-972D-4CC8E8C27A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6323221A-1A86-4D2D-972D-4CC8E8C27A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6323221A-1A86-4D2D-972D-4CC8E8C27A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8688CD12-E36D-487B-8F64-1243EF52B765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8688CD12-E36D-487B-8F64-1243EF52B765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8688CD12-E36D-487B-8F64-1243EF52B765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8688CD12-E36D-487B-8F64-1243EF52B765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
