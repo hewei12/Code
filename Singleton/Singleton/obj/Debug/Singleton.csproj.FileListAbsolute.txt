@@ -1,1 +1,2 @@
 c:\users\administrator\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\GitCode\Code\Singleton\Singleton\bin\Debug\Singleton.exe.config
