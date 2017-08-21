@@ -1,0 +1,2 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Stractory\Stractory\bin\Debug\Stractory.exe.config
+D:\GitCode\Code\Stractory\Stractory\bin\Debug\Stractory.exe.config
