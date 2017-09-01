@@ -4,3 +4,9 @@ c:\users\administrator\documents\visual studio 2015\Projects\Decoration\Decorati
 c:\users\administrator\documents\visual studio 2015\Projects\Decoration\Decoration\obj\Debug\Decoration.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2015\Projects\Decoration\Decoration\obj\Debug\Decoration.exe
 c:\users\administrator\documents\visual studio 2015\Projects\Decoration\Decoration\obj\Debug\Decoration.pdb
+D:\GitCode\Code\Decoration\Decoration\bin\Debug\Decoration.exe.config
+D:\GitCode\Code\Decoration\Decoration\obj\Debug\Decoration.exe
+D:\GitCode\Code\Decoration\Decoration\obj\Debug\Decoration.pdb
+D:\GitCode\Code\Decoration\Decoration\bin\Debug\Decoration.exe
+D:\GitCode\Code\Decoration\Decoration\bin\Debug\Decoration.pdb
+D:\GitCode\Code\Decoration\Decoration\obj\Debug\Decoration.csprojResolveAssemblyReference.cache

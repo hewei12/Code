@@ -1,0 +1,5 @@
+D:\GitCode\Code\Decoration\CoffeCase\bin\Debug\CoffeCase.exe.config
+D:\GitCode\Code\Decoration\CoffeCase\bin\Debug\CoffeCase.exe
+D:\GitCode\Code\Decoration\CoffeCase\bin\Debug\CoffeCase.pdb
+D:\GitCode\Code\Decoration\CoffeCase\obj\Debug\CoffeCase.exe
+D:\GitCode\Code\Decoration\CoffeCase\obj\Debug\CoffeCase.pdb
