@@ -16,6 +16,8 @@ namespace Observer
             ISubcribe sb1 = new Subcribe("fd");
             np.Register(sb1);
             np.Sender();
+            //np.Notify();
+            Console.ReadKey();
         }
     }
 }

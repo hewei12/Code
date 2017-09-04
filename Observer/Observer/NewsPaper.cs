@@ -13,6 +13,9 @@ namespace Observer
     {
         private List<ISubcribe> sublist = new List<ISubcribe>();
 
+        public delegate void NotifyDelegate();
+        public event NotifyDelegate NotifyEvent;
+
         public void Register(ISubcribe sc)
         {
             sublist.Add(sc);
@@ -28,10 +31,19 @@ namespace Observer
 
         public void Sender()
         {
-            sublist.ForEach(e=>
+            sublist.ForEach(e =>
             {
                 e.HasNewsPaper();
+                //this.NotifyEvent += e.HasNewsPaper;
             });
+        }
+
+        public void Notify()
+        {
+            if(NotifyEvent!=null)
+            {
+                NotifyEvent();
+            }
         }
     }
 }

@@ -20,6 +20,9 @@ namespace Observer
         {
             _name = name;
         }
+        /// <summary>
+        /// 
+        /// </summary>
         public void HasNewsPaper()
         {
             Console.WriteLine(_name + "我收到了一个消息..............");

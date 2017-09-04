@@ -1,1 +1,7 @@
 c:\users\administrator\documents\visual studio 2015\Projects\Observer\Observer\bin\Debug\Observer.exe.config
+D:\GitCode\Code\Observer\Observer\bin\Debug\Observer.exe.config
+D:\GitCode\Code\Observer\Observer\bin\Debug\Observer.exe
+D:\GitCode\Code\Observer\Observer\bin\Debug\Observer.pdb
+D:\GitCode\Code\Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\GitCode\Code\Observer\Observer\obj\Debug\Observer.exe
+D:\GitCode\Code\Observer\Observer\obj\Debug\Observer.pdb
